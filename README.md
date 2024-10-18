@@ -1,6 +1,6 @@
 # about
 
-Github : 
+Github : https://github.com/rudra-64 (temporary github)
 
 Geeksforgeeks : https://www.geeksforgeeks.org/user/brudrasenareddy/
 
