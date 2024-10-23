@@ -1,5 +1,11 @@
 # about
 
+<b>FullName :</b> Bodireddy Rudrasena Reddy
+
+Instagram : 
+
+Gmail : b.rudrasenareddy@gmail.com
+
 Github : https://github.com/rudra-64 (temporary github)
 
 Geeksforgeeks : https://www.geeksforgeeks.org/user/brudrasenareddy/
