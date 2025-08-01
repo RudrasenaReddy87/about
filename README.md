@@ -3,14 +3,12 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Coding Profiles</title>
+  <title>Mail & Profile</title>
   <link rel="stylesheet" href="mail.css">
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap" rel="stylesheet">
 
   <style>
 
-    /* mail.css - Enhanced Animations Version */
-/* Font and Base Styles */
 body {
   font-family: 'Inter', sans-serif;
   background-color: #f8fafc;
