@@ -1,6 +1,7 @@
 # Coding Profiles Portal
 
-![Demo Screenshot](./screenshot.png)
+![Uploading image.png…]()
+
 
 An interactive showcase of my coding profiles with elegant glass morphism effects and smooth animations.
 
