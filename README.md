@@ -7,17 +7,17 @@ An interactive showcase of my coding profiles with elegant glass morphism effect
 
 ## Features
 
-- 🪄 Glass morphism UI design
-- ✨ Smooth hover animations
-- 📱 Fully responsive layout
-- 🌈 Platform-specific color schemes
-- ✉️ Direct email link
+- Glass morphism UI design
+- Smooth hover animations
+- Fully responsive layout
+- Platform-specific color schemes
+- ✉Direct email link
 
 ## How to Use
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/your-repo.git
+   git clone https://github.com/rudrasenareddy87/about.git
    ```
 
 2. Open `mail.html` in your browser
