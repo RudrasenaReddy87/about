@@ -1,6 +1,6 @@
 # Coding Profiles Portal
 
-![Uploading image.png…]()
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3c198259-c572-49ba-8b66-296262edd272" />
 
 
 An interactive showcase of my coding profiles with elegant glass morphism effects and smooth animations.
